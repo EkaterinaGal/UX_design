@@ -11,4 +11,3 @@ The collected data is then automatically analysed by an application that suggest
 
 For example, if the system detects that a person is tired, it might suggest a meditation or a power nap. If the system detects that a person entered their most productive state, the system suggests working on the most important task of the day. After the entrepreneur selects one of the suggested activities, the system automatically adjusts the environment (it adjusts the lighting and room temperature, mutes email and text notifications, switches on soothing music) to optimize the environment in support of the selected activity.
 
-LINK TOP THE VIDEO: https://youtu.be/cXuJlouqWEE
