@@ -1,0 +1,87 @@
+/* Write some CSS below */
+
+body {
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+	background-color: #E8E5EC;
+	margin-bottom: 30px;
+	}
+
+h3 {
+	color:#5B4376;
+	font-size: 25px; 
+	font-weight: bold;
+	text-justify: centre;
+	}
+
+a { color: #1F5D20 ;
+	font-weight: bold;
+	}
+
+.button-purple {
+	background-color: #6a39cc  ;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 2px;
+}
+
+.banner {
+	background-image: url(images/background.jpg);
+	background-size: cover;
+  	color: white;
+  	text-align: center;
+  	padding: 100px 0px;
+  
+}
+
+.banner h1 {
+  color: white;
+  font-size: 45px;
+  margin: 0;
+}
+
+.banner p {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.card-white {
+  background: white;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  width: 200px;
+  text-align: center;
+  padding: 15px;
+  margin: 8px;
+  margin-bottom: 45px;
+}
+
+.card-white img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  background: #404042;
+  text-align: center;
+  padding: 12px 0px;
+}
+
+.footer p {
+  color: white;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 14px;
+}
